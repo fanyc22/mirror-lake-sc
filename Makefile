@@ -17,7 +17,7 @@ else
 	VERILATOR =
 endif
 
-# Default board PLL and parameters to be passed to Chisel (require parsing at Toplevel)
+# Default board PLL and parameters to be passed to Chisel (require parsing at MirrorLakeSC)
 BOARD := bypass
 # Chisel Params below are:
 # --target:fpga -> https://github.com/chipsalliance/firrtl/blob/82da33135fcac1a81e8ea95f47626e80b4e80fd1/src/main/scala/firrtl/stage/FirrtlCompilerTargets.scala
@@ -45,7 +45,7 @@ lint: ## Formats code using scalafmt and scalafix
 deps: ## Check for library version updates
 	$(MILL) run deps
 
-MODULE ?= Toplevel
+MODULE ?= MirrorLakeSC
 dot: $(generated_files) ## Generate dot files for Core
 	@echo "Generating graphviz dot file for module \"$(MODULE)\". For a different module, pass the argument as \"make dot MODULE=mymod\"."
 	@$(YOSYS) -p "read_verilog ./generated/*.v; proc; opt; show -colors 2 -width -format dot -prefix $(MODULE) -signed $(MODULE)"

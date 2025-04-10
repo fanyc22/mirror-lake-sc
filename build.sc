@@ -59,11 +59,11 @@ trait ScalacOptions extends ScalaModule {
 }
 
 // Final object definition name matches the sources/tests directory
-object toplevel extends ScalaModule with BaseProject with ScalacOptions {
+object mirrorlakesc extends ScalaModule with BaseProject with ScalacOptions {
   // This is the name of your main class (instantiated as `object x extends App`)
-  def mainClass = Some("Toplevel")
+  def mainClass = Some("MirrorLakeSC")
   // Matches your project directory where sources and tests are placed
-  def projectName = "toplevel"
+  def projectName = "mirrorlakesc"
 }
 
 // -----------------------------------------------------------------------------
@@ -81,7 +81,7 @@ val aliases: Map[String, Seq[String]] = Map(
   "test"  -> Seq("__.test"),
 )
 
-// The toplevel alias runner
+// The mirrorlakesc alias runner
 def run(ev: eval.Evaluator, alias: String = "") = T.command {
   if (alias == "") {
     println("Use './mill run [alias]'.\nAvailable aliases:");

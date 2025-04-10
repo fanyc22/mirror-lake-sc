@@ -5,11 +5,11 @@ import org.scalatest._
 import flatspec._
 import matchers._
 
-class ToplevelSpec extends AnyFlatSpec with ChiselScalatestTester with GivenWhenThen with should.Matchers {
-  behavior of "Toplevel io sample"
+class MirrorLakeSCSpec extends AnyFlatSpec with ChiselScalatestTester with GivenWhenThen with should.Matchers {
+  behavior of "MirrorLakeSC io sample"
 
   it should "have the output equal to input" in {
-    test(new Toplevel()).withAnnotations(
+    test(new MirrorLakeSC()).withAnnotations(
       Seq(
         WriteVcdAnnotation,
         // VerilatorBackendAnnotation, // Uncomment to use the Verilator backend
