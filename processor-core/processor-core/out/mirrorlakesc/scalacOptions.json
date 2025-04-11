@@ -1,0 +1,15 @@
+{
+    "value": [
+        "-unchecked",
+        "-deprecation",
+        "-language:reflectiveCalls",
+        "-feature",
+        "-Xcheckinit",
+        "-Xfatal-warnings",
+        "-Ywarn-dead-code",
+        "-Ywarn-unused",
+        "-P:chiselplugin:genBundleElements"
+    ],
+    "valueHash": 1891209598,
+    "inputsHash": -1384748079
+}

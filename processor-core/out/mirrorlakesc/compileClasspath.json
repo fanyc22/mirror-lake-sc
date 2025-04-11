@@ -1,0 +1,32 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/fanyuchen/Desktop/rv-playground/mirror-lake-sc/processor-core/mirrorlakesc/resources",
+        "qref:342278fe:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3_2.13/3.5.5/chisel3_2.13-3.5.5.jar",
+        "qref:eb0483a8:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar",
+        "qref:ae38d719:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3-macros_2.13/3.5.5/chisel3-macros_2.13-3.5.5.jar",
+        "qref:7b7d75c7:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3-core_2.13/3.5.5/chisel3-core_2.13-3.5.5.jar",
+        "qref:2ae1cded:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar",
+        "qref:c92c8eeb:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_2.13/0.8.0/os-lib_2.13-0.8.0.jar",
+        "qref:53dbc79b:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/firrtl_2.13/1.5.5/firrtl_2.13-1.5.5.jar",
+        "qref:38dd36f8:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.7.0/geny_2.13-0.7.0.jar",
+        "qref:60139e33:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.9.3/antlr4-runtime-4.9.3.jar",
+        "qref:b2cde8cb:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.18.2/protobuf-java-3.18.2.jar",
+        "qref:c770502f:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/scopt/scopt_2.13/3.7.1/scopt_2.13-3.7.1.jar",
+        "qref:b6d00d3a:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/jcazevedo/moultingyaml_2.13/0.4.2/moultingyaml_2.13-0.4.2.jar",
+        "qref:3604ab3a:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-native_2.13/3.6.12/json4s-native_2.13-3.6.12.jar",
+        "qref:31f26a27:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9.jar",
+        "qref:ebe92a95:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/data-class_2.13/0.2.5/data-class_2.13-0.2.5.jar",
+        "qref:821cde9e:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parallel-collections_2.13/1.0.4/scala-parallel-collections_2.13-1.0.4.jar",
+        "qref:f142e744:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.13/2.22.0/nscala-time_2.13-2.22.0.jar",
+        "qref:9b12fa08:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar",
+        "qref:555f113b:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-core_2.13/3.6.12/json4s-core_2.13-3.6.12.jar",
+        "qref:75d8698d:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar",
+        "qref:38e6a413:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar",
+        "qref:758fa990:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/joda/joda-convert/2.2.0/joda-convert-2.2.0.jar",
+        "qref:1254a917:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-ast_2.13/3.6.12/json4s-ast_2.13-3.6.12.jar",
+        "qref:4f593232:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-scalap_2.13/3.6.12/json4s-scalap_2.13-3.6.12.jar",
+        "qref:d83054b1:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar"
+    ],
+    "valueHash": 975859269,
+    "inputsHash": 442821305
+}

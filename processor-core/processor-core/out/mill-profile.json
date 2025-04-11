@@ -1,0 +1,377 @@
+[
+    {
+        "label": "mirrorlakesc.test.runUseArgsFile",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.testUseArgsFile",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.forkArgs",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.testFramework",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.resources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.scalaVersion",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.scalaVersion",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.classpath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.zincLogDebug",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.worker",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.upstreamCompileOutput",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.sources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.generatedSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.allSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.allSourceFiles",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.transitiveLocalClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.resources",
+        "millis": 0,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.unmanagedClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.platformSuffix",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.transitiveCompileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.ivyDeps.overridden.mill.scalalib.JavaModule.ivyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.ivyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.mandatoryIvyDeps.overridden.mill.scalalib.JavaModule.mandatoryIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.scalaOrganization",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.scalaLibraryIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.mandatoryIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.transitiveIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.resolvedIvyDeps",
+        "millis": 3,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.compileClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.javacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.mandatoryScalacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.scalacPluginIvyDeps.overridden.mill.scalalib.ScalaModule.scalacPluginIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.scalacPluginIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.enablePluginScalacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.scalacOptions.overridden.mill.scalalib.ScalaModule.scalacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.scalacOptions",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.allScalacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.scalaCompilerClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.scalacPluginClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.compile",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.upstreamCompileOutput",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.test.sources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.test.generatedSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.allSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.allSourceFiles",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.localClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.transitiveLocalClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.test.unmanagedClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.platformSuffix",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.transitiveCompileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.ivyDeps.overridden.mill.scalalib.JavaModule.ivyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.ivyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.mandatoryIvyDeps.overridden.mill.scalalib.JavaModule.mandatoryIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.scalaOrganization",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.scalaLibraryIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.mandatoryIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.transitiveIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.resolvedIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.compileClasspath",
+        "millis": 0,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.test.enablePluginScalacOptions",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.allScalacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.scalaCompilerClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.compile",
+        "millis": 9,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.test.localClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.runIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.resolvedRunIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.upstreamAssemblyClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.test.runClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.scalalibClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.forkEnv.overridden.mill.scalalib.JavaModule.forkEnv",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.test.forkEnv",
+        "millis": 0,
+        "cached": false
+    },
+    {
+        "label": "mirrorlakesc.test.forkWorkingDir",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mirrorlakesc.test.test",
+        "millis": 1329,
+        "cached": false
+    }
+]

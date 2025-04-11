@@ -1,0 +1,11 @@
+{
+    "value": [
+        "ref:58606dea:/Users/fanyuchen/Desktop/rv-playground/mirror-lake-sc/processor-core/mirrorlakesc/src/Constants.scala",
+        "ref:e554bb28:/Users/fanyuchen/Desktop/rv-playground/mirror-lake-sc/processor-core/mirrorlakesc/src/MirrorLakeSC.scala",
+        "ref:1e362cda:/Users/fanyuchen/Desktop/rv-playground/mirror-lake-sc/processor-core/mirrorlakesc/src/ALUOps.scala",
+        "ref:24e89745:/Users/fanyuchen/Desktop/rv-playground/mirror-lake-sc/processor-core/mirrorlakesc/src/RegisterFile.scala",
+        "ref:1e0c8624:/Users/fanyuchen/Desktop/rv-playground/mirror-lake-sc/processor-core/mirrorlakesc/src/ALU.scala"
+    ],
+    "valueHash": -853135763,
+    "inputsHash": 1434505526
+}
