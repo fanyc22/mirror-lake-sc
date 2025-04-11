@@ -1,8 +1,0 @@
-{
-    "value": [
-        "-Xplugin:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.8/4.5.13/semanticdb-scalac_2.13.8-4.5.13.jar",
-        "-Xplugin:/Users/fanyuchen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3-plugin_2.13.8/3.5.5/chisel3-plugin_2.13.8-3.5.5.jar"
-    ],
-    "valueHash": 1218662251,
-    "inputsHash": 1619048315
-}
